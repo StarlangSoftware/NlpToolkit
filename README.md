@@ -59,18 +59,18 @@ Turkish Natural Language Resources in NlpToolkit
 
 ### Machine Learning
 
-1. Sampling v1.0.1 (https://github.com/StarlangSoftware/Sampling)
-2. Classification v1.0.5 (https://github.com/StarlangSoftware/Classification)
-3. DataGenerator v1.0.6 (https://github.com/StarlangSoftware/DataGenerator)
+1. Sampling v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/Sampling)[![c++](cpp.png)](https://github.com/StarlangSoftware/Sampling-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Sampling-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Sampling-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Sampling-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Sampling-Cy)
+2. Classification v1.0.5 [![Java](java.png)](https://github.com/StarlangSoftware/Classification)[![c++](cpp.png)](https://github.com/StarlangSoftware/Classification-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Classification-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Classification-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Classification-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Classification-Cy)
+3. DataGenerator v1.0.6 [![Java](java.png)](https://github.com/StarlangSoftware/DataGenerator)[![c++](cpp.png)](https://github.com/StarlangSoftware/DataGenerator-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/DataGenerator-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/DataGenerator-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/DataGenerator-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/DataGenerator-Cy)
 
 ### High Level Analysis
 
-1. Semantic Role Labeling v1.0.1 (https://github.com/StarlangSoftware/SemanticRoleLabeling)
-2. Named Entity Recognition v1.0.2 (https://github.com/StarlangSoftware/NER)
-3. Word Sense Disambiguation v1.0.2 (https://github.com/StarlangSoftware/WordSenseDisambiguation)
-4. Sentiment Analysis v1.0.1 (https://github.com/StarlangSoftware/SentimentAnalysis)
-5. Shallow Parsing v1.0.1 (https://github.com/StarlangSoftware/ShallowParsing)
-6. Dependency Parsing v.1.0.1 (https://github.com/StarlangSoftware/UniversalDependencyParser)
+1. Semantic Role Labeling v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/SemanticRoleLabeling)[![c++](cpp.png)](https://github.com/StarlangSoftware/SemanticRoleLabeling-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/SemanticRoleLabeling-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/SemanticRoleLabeling-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/SemanticRoleLabeling-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/SemanticRoleLabeling-Cy)
+2. Named Entity Recognition v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/NER)[![c++](cpp.png)](https://github.com/StarlangSoftware/NER-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/NER-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/NER-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/NER-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/NER-Cy)
+3. Word Sense Disambiguation v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation)[![c++](cpp.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Cy)
+4. Sentiment Analysis v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/SentimentAnalysis)[![c++](cpp.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/SentimentAnalysis-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/SentimentAnalysis-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/SentimentAnalysis-Cy)
+5. Shallow Parsing v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/ShallowParsing)[![c++](cpp.png)](https://github.com/StarlangSoftware/ShallowParsing-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/ShallowParsing-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/ShallowParsing-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/ShallowParsing-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/ShallowParsing-Cy)
+6. Dependency Parsing v.1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/UniversalDependencyParser)[![c++](cpp.png)](https://github.com/StarlangSoftware/UniversalDependencyParser-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/UniversalDependencyParser-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/UniversalDependencyParser-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/UniversalDependencyParser-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/UniversalDependencyParser-Cy)
 
 6 programming languages (C++, Java, Python, C#, Swift, Cython) 
 
