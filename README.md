@@ -27,7 +27,7 @@ Turkish Natural Language Resources in NlpToolkit
 
 ## Overview of Library
 
-28 NLP code libraries 
+36 NLP code libraries 
 
 ### Word Level Analysis
 
@@ -44,12 +44,20 @@ Turkish Natural Language Resources in NlpToolkit
 
 1. Turkish PropBank TRopBank v1.0.11 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishPropBank)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishPropBank-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishPropBank-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishPropBank-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishPropBank-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishPropBank-Cy)
 2. Dependency Parser v1.0.14 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishDependencyParser)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishDependencyParser-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishDependencyParser-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishDependencyParser-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishDependencyParser-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishDependencyParser-Cy)
-3. ParseTree v1.0.4 [![Java](java.png)](https://github.com/StarlangSoftware/ParseTree)[![c++](cpp.png)](https://github.com/StarlangSoftware/ParseTree-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/ParseTree-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/ParseTree-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/ParseTree-Cy)
-4. AnnotatedSentence v1.0.27 [![Java](java.png)](https://github.com/StarlangSoftware/AnnotatedSentence)[![c++](cpp.png)](https://github.com/StarlangSoftware/AnnotatedSentence-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/AnnotatedSentence-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/AnnotatedSentence-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/AnnotatedSentence-Cy)
-5. AnnotatedTree v1.0.16 [![Java](java.png)](https://github.com/StarlangSoftware/AnnotatedTree)[![c++](cpp.png)](https://github.com/StarlangSoftware/AnnotatedTree-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/AnnotatedTree-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/AnnotatedTree-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/AnnotatedTree-Cy)
-6. Corpus v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/Corpus)[![c++](cpp.png)](https://github.com/StarlangSoftware/Corpus-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Corpus-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Corpus-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Corpus-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Corpus-Cy)
-7. NER Corpus Processing v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Cy)
-8. Turkish FrameNet v1.0.6 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishFrameNet)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishFrameNet-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishFrameNet-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Cy)
+3. Syntactic Parser v1.0.0 [![Java](java.png)](https://github.com/StarlangSoftware/SyntacticParser)
+4. ParseTree v1.0.4 [![Java](java.png)](https://github.com/StarlangSoftware/ParseTree)[![c++](cpp.png)](https://github.com/StarlangSoftware/ParseTree-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/ParseTree-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/ParseTree-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/ParseTree-Cy)
+5. AnnotatedSentence v1.0.27 [![Java](java.png)](https://github.com/StarlangSoftware/AnnotatedSentence)[![c++](cpp.png)](https://github.com/StarlangSoftware/AnnotatedSentence-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/AnnotatedSentence-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/AnnotatedSentence-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/AnnotatedSentence-Cy)
+6. AnnotatedTree v1.0.16 [![Java](java.png)](https://github.com/StarlangSoftware/AnnotatedTree)[![c++](cpp.png)](https://github.com/StarlangSoftware/AnnotatedTree-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/AnnotatedTree-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/AnnotatedTree-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/AnnotatedTree-Cy)
+7. Corpus v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/Corpus)[![c++](cpp.png)](https://github.com/StarlangSoftware/Corpus-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Corpus-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Corpus-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Corpus-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Corpus-Cy)
+8. NER Corpus Processing v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Cy)
+9. Turkish FrameNet v1.0.6 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishFrameNet)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishFrameNet-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishFrameNet-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Cy)
+10. Phrase to Dependency, Dependency to Phrase Structure Converter v1.0.0 [![Java](java.png)](https://github.com/StarlangSoftware/StructureConverter)[![c#](cs.png)](https://github.com/StarlangSoftware/StructureConverter-CS)
+
+### Preliminaries
+
+1. DataStructure v1.0.4 [![Java](java.png)](https://github.com/StarlangSoftware/DataStructure)[![c++](cpp.png)](https://github.com/StarlangSoftware/DataStructure-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/DataStructure-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/DataStructure-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/DataStructure-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/DataStructure-Cy)
+2. Math v1.0.4 [![Java](java.png)](https://github.com/StarlangSoftware/Math)[![c++](cpp.png)](https://github.com/StarlangSoftware/Math-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Math-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Math-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Math-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Math-Cy)
+3. Utils v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/Util)[![c++](cpp.png)](https://github.com/StarlangSoftware/Util-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Util-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Util-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Util-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Util-Cy)
 
 ### Basic Algorithms
 
@@ -57,11 +65,16 @@ Turkish Natural Language Resources in NlpToolkit
 2. NGram v1.0.17 [![Java](java.png)](https://github.com/StarlangSoftware/NGram)[![c++](cpp.png)](https://github.com/StarlangSoftware/NGram-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/NGram-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/NGram-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/NGram-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/NGram-Cy)
 3. WordToVec v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/WordToVec)[![c++](cpp.png)](https://github.com/StarlangSoftware/WordToVec-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/WordToVec-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/WordToVec-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/WordToVec-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/WordToVec-Cy)
 
+### GUI
+
+1. DataCollector v1.0.14 [![Java](java.png)](https://github.com/StarlangSoftware/DataCollector)
+
 ### Machine Learning
 
 1. Sampling v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/Sampling)[![c++](cpp.png)](https://github.com/StarlangSoftware/Sampling-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Sampling-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Sampling-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Sampling-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Sampling-Cy)
 2. Classification v1.0.5 [![Java](java.png)](https://github.com/StarlangSoftware/Classification)[![c++](cpp.png)](https://github.com/StarlangSoftware/Classification-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Classification-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/Classification-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Classification-Cy)
 3. DataGenerator v1.0.6 [![Java](java.png)](https://github.com/StarlangSoftware/DataGenerator)[![c++](cpp.png)](https://github.com/StarlangSoftware/DataGenerator-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/DataGenerator-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/DataGenerator-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/DataGenerator-Cy)
+4. Clustering v1.0.0 [![Java](java.png)](https://github.com/StarlangSoftware/Clustering)
 
 ### High Level Analysis
 
@@ -70,7 +83,8 @@ Turkish Natural Language Resources in NlpToolkit
 3. Word Sense Disambiguation v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation)[![c++](cpp.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Cy)
 4. Sentiment Analysis v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/SentimentAnalysis)[![c++](cpp.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CS)
 5. Shallow Parsing v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/ShallowParsing)
-6. Dependency Parsing v.1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/UniversalDependencyParser)
+6. Dependency Parsing v.1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/UniversalDependencyParser) 
+7. Machine Translation v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/EnglishTurkishTranslation) 
 
 Best Fit for Natural Language Processing Teaching (NLP, Advanced NLP, Information Retrieval). 
 
