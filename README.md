@@ -31,7 +31,7 @@ Turkish Natural Language Resources in NlpToolkit
 
 ### Word Level Analysis
 
-1. Morphological Analysis Dilbaz v1.0.35 (https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis)
+1. Morphological Analysis Dilbaz v1.0.35 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis)
 2. Morphological Disambiguation v1.0.18 (https://github.com/StarlangSoftware/TurkishMorphologicalDisambiguation)
 3. Turkish Dictionary v1.0.21 (https://github.com/StarlangSoftware/Dictionary)
 4. Turkish WordNet KeNet v1.0.42 (https://github.com/StarlangSoftware/TurkishWordNet)
