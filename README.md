@@ -72,8 +72,6 @@ Turkish Natural Language Resources in NlpToolkit
 5. Shallow Parsing v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/ShallowParsing)[![c++](cpp.png)](https://github.com/StarlangSoftware/ShallowParsing-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/ShallowParsing-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/ShallowParsing-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/ShallowParsing-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/ShallowParsing-Cy)
 6. Dependency Parsing v.1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/UniversalDependencyParser)[![c++](cpp.png)](https://github.com/StarlangSoftware/UniversalDependencyParser-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/UniversalDependencyParser-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/UniversalDependencyParser-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/UniversalDependencyParser-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/UniversalDependencyParser-Cy)
 
-6 programming languages (C++, Java, Python, C#, Swift, Cython) 
-
 Best Fit for Natural Language Processing Teaching (NLP, Advanced NLP, Information Retrieval). 
 
 ## Contributors
