@@ -82,7 +82,7 @@ Turkish Natural Language Resources in NlpToolkit
 2. Named Entity Recognition v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/NER)[![c++](cpp.png)](https://github.com/StarlangSoftware/NER-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/NER-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/NER-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/NER-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/NER-Cy)
 3. Word Sense Disambiguation v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation)[![c++](cpp.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Cy)
 4. Sentiment Analysis v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/SentimentAnalysis)[![c++](cpp.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CS)
-5. Shallow Parsing v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/ShallowParsing)
+5. Shallow Parsing v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/ShallowParsing)
 6. Dependency Parsing v.1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/UniversalDependencyParser) 
 7. Machine Translation v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/EnglishTurkishTranslation) 
 
