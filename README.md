@@ -67,7 +67,7 @@ Turkish Natural Language Resources in NlpToolkit
 
 ### GUI
 
-1. DataCollector v1.0.14 [![Java](java.png)](https://github.com/StarlangSoftware/DataCollector)
+1. DataCollector v1.0.15 [![Java](java.png)](https://github.com/StarlangSoftware/DataCollector)
 
 ### Machine Learning
 
