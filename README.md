@@ -63,7 +63,7 @@ Turkish Natural Language Resources in NlpToolkit
 
 1. Hmm v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/Hmm)[![c++](cpp.png)](https://github.com/StarlangSoftware/Hmm-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Hmm-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Hmm-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Hmm-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Hmm-Cy)
 2. NGram v1.0.19 [![Java](java.png)](https://github.com/StarlangSoftware/NGram)[![c++](cpp.png)](https://github.com/StarlangSoftware/NGram-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/NGram-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/NGram-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/NGram-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/NGram-Cy)
-3. WordToVec v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/WordToVec)[![c++](cpp.png)](https://github.com/StarlangSoftware/WordToVec-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/WordToVec-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/WordToVec-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/WordToVec-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/WordToVec-Cy)
+3. WordToVec v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/WordToVec)[![c++](cpp.png)](https://github.com/StarlangSoftware/WordToVec-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/WordToVec-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/WordToVec-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/WordToVec-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/WordToVec-Cy)
 
 ### GUI
 
