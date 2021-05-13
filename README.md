@@ -51,7 +51,7 @@ Turkish Natural Language Resources in NlpToolkit
 7. Corpus v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/Corpus)[![c++](cpp.png)](https://github.com/StarlangSoftware/Corpus-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Corpus-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Corpus-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Corpus-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Corpus-Cy)
 8. NER Corpus Processing v1.0.6 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishNamedEntityRecognition-Cy)
 9. Turkish FrameNet v1.0.6 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishFrameNet)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishFrameNet-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishFrameNet-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishFrameNet-Cy)
-10. Phrase to Dependency, Dependency to Phrase Structure Converter v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/StructureConverter)[![c#](cs.png)](https://github.com/StarlangSoftware/StructureConverter-CS)
+10. Phrase to Dependency, Dependency to Phrase Structure Converter v1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/StructureConverter)[![c#](cs.png)](https://github.com/StarlangSoftware/StructureConverter-CS)
 
 ### Preliminaries
 
@@ -83,7 +83,7 @@ Turkish Natural Language Resources in NlpToolkit
 3. Word Sense Disambiguation v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation)[![c++](cpp.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/WordSenseDisambiguation-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/WordSenseDisambiguation-Cy)
 4. Sentiment Analysis v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/SentimentAnalysis)[![c++](cpp.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/SentimentAnalysis-CS)
 5. Shallow Parsing v1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/ShallowParsing)
-6. Dependency Parsing v.1.0.1 [![Java](java.png)](https://github.com/StarlangSoftware/UniversalDependencyParser) 
+6. Dependency Parsing v.1.0.2 [![Java](java.png)](https://github.com/StarlangSoftware/UniversalDependencyParser) 
 7. Machine Translation v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/EnglishTurkishTranslation) 
 
 Best Fit for Natural Language Processing Teaching (NLP, Advanced NLP, Information Retrieval). 
